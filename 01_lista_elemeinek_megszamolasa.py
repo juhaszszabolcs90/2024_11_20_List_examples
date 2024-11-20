@@ -4,3 +4,4 @@ Határozd meg a lista hosszát egy ciklus segítségével
 (a len() függvény megoldásán kívül használj for ciklusos megoldást is),
 és írd ki!
 """
+
